@@ -1,0 +1,17 @@
+{
+  "name": "neighbourhood-maps",
+  "version": "1.0.0",
+  "description": "### neighbourhood Maps Project For Udacity FEND",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangziyu/neighbourhood-maps.git"
+  },
+  "author": "huangziyu",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-minifier": "^0.2.2"
+  }
+}
